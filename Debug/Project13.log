@@ -1,0 +1,256 @@
+﻿  Tilemap.cpp
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,51): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,51): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,51): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,51): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,51): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,35): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,35): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,35): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,35): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,35): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,57): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,57): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,57): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,57): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,57): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,41): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,41): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,41): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,41): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,41): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,63): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,63): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,63): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,63): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,63): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,41): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,41): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,41): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,41): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,41): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,57): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,57): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,57): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,57): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,57): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,35): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,35): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,35): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,35): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,35): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244:         and
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244:         and
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244:         and
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244:         and
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244:         and
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244:         and
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244:         and
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244:         ]
+  Źródło.cpp
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244:         and
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,51): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,51): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,51): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,51): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,51): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,35): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,35): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,35): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,35): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(46,35): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,57): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,57): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,57): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,57): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,57): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,41): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,41): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,41): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,41): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(47,41): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,63): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,63): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,63): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,63): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,63): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,41): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,41): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,41): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,41): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(48,41): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,57): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,57): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,57): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,57): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,57): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,35): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,35): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,35): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,35): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(49,35): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244:         and
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,58): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244:         and
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(51,41): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244:         and
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,64): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244:         and
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(52,47): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244:         and
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,70): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244:         and
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(53,47): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244:         and
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,64): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244:         and
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Tilemap.h(54,41): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(27,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(27,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(44,45): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(44,45): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(44,45): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(44,45): warning C4244:             T=unsigned int
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(44,45): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(170,40): warning C4244: "=": konwersja z "sf::Int32" do "float", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(214,58): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(214,58): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(214,58): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(214,58): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(214,58): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(214,40): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(214,40): warning C4244:         with
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(214,40): warning C4244:         [
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(214,40): warning C4244:             T=float
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(214,40): warning C4244:         ]
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(248,24): warning C4305: "+=": obcięcie z "double" do "float"
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(250,20): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(251,25): warning C4305: "-=": obcięcie z "double" do "float"
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(254,25): warning C4305: "-=": obcięcie z "double" do "float"
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(257,24): warning C4305: "-=": obcięcie z "double" do "float"
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(259,20): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(260,25): warning C4305: "+=": obcięcie z "double" do "float"
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(263,25): warning C4305: "+=": obcięcie z "double" do "float"
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(281,37): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Generowanie kodu...
+C:\Users\user\source\repos\Project13\Project13\Źródło.cpp(281,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Project13.vcxproj -> C:\Users\user\source\repos\Project13\Debug\Project13.exe
